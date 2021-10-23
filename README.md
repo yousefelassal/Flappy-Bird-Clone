@@ -22,4 +22,4 @@ _for python 2.x_
 - then open http://localhost:8000 in your browser
 
 ## Gameplay
-![GIF of game](https://github.com/yousefelassal/Flappy-Bird-Clone/blob/efe94acd68c7d132bb3ea3de3cbfbe8fb064af09/Flappy-GIF.gif)
+![GIF of game](https://github.com/yousefelassal/Flappy-Bird-Clone/blob/0ba4893db98564ad5e10be9860719823b781edb8/Flappy-GIF.gif)
