@@ -1,7 +1,7 @@
 # Flappy-Bird-Clone
 JavaScript game made using [Phaser](https://phaser.io/) framework.
 
-##Usage
+## Usage
 Running a Phaser game directly in a browser doesn't work, that's because Javascript is not allowed to load files from your local file system.  
 To solve that we will have to use a webserver to play and test our game.
 
